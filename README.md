@@ -18,12 +18,12 @@ A structured 20-day learning journey to master MongoDB, from beginner to advance
 
 | Day | Topic | Status |
 |---|---|---|
-| 01 | MongoDB Data Modeling | In Progress |
-| 02 | MongoDB Introduction and Setup | Pending |
-| 03 | Insert and Read Operations | Pending |
-| 04 | Update and Delete Operations | Pending |
-| 05 | Query Operators | Pending |
-| 06 | Arrays and Nested Documents | Pending |
+| 01 | MongoDB Data Modeling |✅Completed|
+| 02 | MongoDB Introduction and Setup |	✅Completed |
+| 03 | Insert and Read Operations |	✅Completed |
+| 04 | Update and Delete Operations |✅Completed |
+| 05 | Query Operators |✅Completed|
+| 06 | Arrays and Nested Documents | In Progress |
 | 07 | Aggregation Fundamentals | Pending |
 | 08 | Advanced Aggregation | Pending |
 | 09 | Indexing | Pending |
