@@ -16,28 +16,32 @@ A structured 20-day learning journey to master MongoDB, from beginner to advance
 
 ## 📚 20-Day Learning Roadmap
 
+
+
 | Day | Topic | Status |
 |---|---|---|
-| 01 | MongoDB Data Modeling |✅Completed|
-| 02 | MongoDB Introduction and Setup |	✅Completed |
-| 03 | Insert and Read Operations |	✅Completed |
-| 04 | Update and Delete Operations |✅Completed |
-| 05 | Query Operators |✅Completed|
-| 06 | Arrays and Nested Documents | In Progress |
-| 07 | Aggregation Fundamentals | Pending |
-| 08 | Advanced Aggregation | Pending |
-| 09 | Indexing | Pending |
-| 10 | Schema Design | Pending |
-| 11 | Mongoose Basics | Pending |
-| 12 | Mongoose Validation | Pending |
-| 13 | Population and References | Pending |
-| 14 | Transactions | Pending |
-| 15 | MongoDB Security | Pending |
-| 16 | Advanced Aggregation | Pending |
-| 17 | Query Optimization | Pending |
-| 18 | MongoDB with Express.js | Pending |
-| 19 | Database Architecture and Interview Revision | Pending |
-| 20 | Final Project and Mock Interview | Pending |
+| 01 | MongoDB Data Modeling | ✅ Completed |
+| 02 | MongoDB Introduction and Setup | ✅ Completed |
+| 03 | Insert and Read Operations | ✅ Completed |
+| 04 | Update and Delete Operations | ✅ Completed |
+| 05 | Query Operators | ✅ Completed |
+| 06 | Arrays and Nested Documents |✅ Completed |
+| 07 | Aggregation Fundamentals | ⏳ 🔄 In Progress |
+| 08 | Advanced Aggregation | ⏳ Pending |
+| 09 | Indexing | ⏳ Pending |
+| 10 | Advanced Schema Design Patterns | ⏳ Pending |
+| 11 | Mongoose Basics | ⏳ Pending |
+| 12 | Mongoose Validation and Middleware | ⏳ Pending |
+| 13 | Population and References | ⏳ Pending |
+| 14 | MongoDB Transactions | ⏳ Pending |
+| 15 | MongoDB Security | ⏳ Pending |
+| 16 | Replication, Sharding and Backup | ⏳ Pending |
+| 17 | Query Optimization and Performance | ⏳ Pending |
+| 18 | MongoDB with Express.js | ⏳ Pending |
+| 19 | Database Architecture and Interview Revision | ⏳ Pending |
+| 20 | Final Project and Mock Interview | ⏳ Pending |
+
+
 
 
 
